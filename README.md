@@ -1,0 +1,1 @@
+👋 Hello! I'm Atqiya Haydar, currently a second-year student majoring in Informatics Engineering at the Bandung Institute of Technology. My academic journey has fueled a strong interest in the field of Software Engineering, with a particular focus on Mobile Development and UI/UX Design. 
