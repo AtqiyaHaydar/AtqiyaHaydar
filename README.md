@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🏆 Achievements</h3>
+<h2 align="left">🏆 Achievements</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">💼 Experiences</h3>
+<h2 align="left">💼 Experiences</h2>
 
 ###
 
