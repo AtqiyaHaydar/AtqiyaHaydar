@@ -26,14 +26,11 @@
 
 ###
 
-<p align="left">I'm ready to collaborate on software development, UI/UX design, competitions, and projects together! Feel free to contact me via the details below. 🤗</p>
+<p align="left">I'm ready to collaborate on software development, UI/UX design, competitions, and projects together! Feel free to contact me via email at 13522163@std.stei.itb.ac.id 🤗</p>
 
 ###
 
 <div align="left">
-  <a href="13522163@std.stei.itb.ac.id" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/atqiyahaydar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
