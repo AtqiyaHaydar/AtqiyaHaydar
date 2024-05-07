@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">• Program Associate @ TechFusion MagnaPartners 👨‍💻<br>• Director of Operations @ KSEP ITB 💻  <br>• UI/UX Designer Intern @ Datare 🏥<br>• Vice Director of Operations @ INFEST by KSEP ITB</p>
+<p align="left">• Program Associate @ TechFusion MagnaPartners 👨‍💻 (current) <br>• Director of Operations @ KSEP ITB 💻  <br>• UI/UX Designer Intern @ Datare 🏥<br>• Vice Director of Operations @ INFEST by KSEP ITB</p>
 
 ###
 
