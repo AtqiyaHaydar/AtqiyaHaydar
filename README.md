@@ -22,14 +22,6 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💻  About Me</h3>
-
-###
-
-<p align="left">Currently a second-year student majoring in Informatics Engineering at the Bandung Institute of Technology.</p>
-
-###
-
 <h3 align="left">🔥   My Stats</h3>
 
 ###
