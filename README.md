@@ -1,33 +1,32 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/8a/bc/28/8abc2816d74e32ee53c2f9e3807b19d6.gif"  />
-</div>
+<h2 align="left">About Me ✨</h2>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/atqiyahaydar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/atqiyahaydar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/atqiyahaydar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+<p align="left">I'm Atqiya Haydar, a second-year informatics student at Bandung Institute of Technology, currently holds positions as Chief Operating Officer at KSEP ITB and Chief Technology Officer at Sistem Anmategra KM ITB.</p>
 
 ###
 
-<h1 align="center">Hi There! 👋</h1>
+<h2 align="left">Full Stack Projects 🚀</h2>
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+| Project Name  | Repository |
+| ------------- | ------------- |
+| SEASalon  | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)  |
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AtqiyaHaydar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left"></p>
 
 ###
+
+<h2 align="left">Skills ☄️</h2>
+
+###
+
+| Categories  | Skills |
+| ------------- | ------------- |
+| Web Development and Frameworks   | HTML, CSS, JavaScript, TypeScript, React.js, Next.js, React Redux, Tailwind CSS, Express.js  |
+| Database and ORM  | MySQL, PostgreSQL, Prisma, MongoDB  |
+| Programming Languages  | Python, Golang, Java, C, C++, C#  |
+| Design and User Experience  | UI Design, UX Design, Figma, Canva |
