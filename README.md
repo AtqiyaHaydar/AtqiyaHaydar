@@ -10,9 +10,9 @@
 
 ###
 
-| Project Name  | Repository |
-| ------------- | ------------- |
-| SEASalon  | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)  |
+| Project Name  | Repository | Tech Stacks |
+| ------------- | ------------- | ------------- |
+| SEASalon  | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)  | Next.js, TypeScript, TailwindCSS, ShadcnUI, PostgreSQL, Prisma, Neon.tech, NextAuth |
 
 ###
 
