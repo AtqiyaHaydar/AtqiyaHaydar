@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Atqiya Haydar, a second-year informatics student at Bandung Institute of Technology, currently holds positions as Chief Operating Officer at KSEP ITB and Chief Technology Officer at Sistem Anmategra KM ITB.</p>
+<p align="left">I'm Atqiya Haydar, a second-year informatics student at Bandung Institute of Technology, currently holding positions as Chief Operating Officer at KSEP ITB and Chief Technology Officer at Sistem Anmategra KM ITB. I am currently focused on software engineering and enjoy doing UI/UX design.</p>
 
 ###
 
