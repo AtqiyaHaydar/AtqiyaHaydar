@@ -13,7 +13,7 @@
 | Project Name  | Repository | Tech Stacks |
 | ------------- | ------------- | ------------- |
 | SEASalon  | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)  | Next.js, TypeScript, TailwindCSS, ShadcnUI, PostgreSQL, Prisma, Neon.tech, NextAuth |
-| Wiki Race Solver  | [Link to Project](https://github.com/AtqiyaHaydar/Tubes2_PergiBahasa)  | Next.js, TypeScript, TailwindCSS, Golang |
+| Wiki Race Solver  | [Link to Project](https://github.com/AtqiyaHaydar/Tubes2_PergiBahasa)  | Next.js, TypeScript, TailwindCSS, ShadcnUI, Golang |
 
 ###
 
