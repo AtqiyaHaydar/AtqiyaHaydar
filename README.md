@@ -40,3 +40,9 @@ Currently serving as : <br>
 | Database and ORM  | MySQL, PostgreSQL, Prisma, MongoDB  |
 | Programming Languages  | Python, Golang, Java, C, C++, C#  |
 | Design and User Experience  | UI Design, UX Design, Figma, Canva |
+
+###
+
+<h2 align="left">Links 🧑🏻‍🚀</h2>
+<p>LinkedIn: https://www.linkedin.com/in/atqiyahaydar/</p>
+<p>X: https://x.com/atqiyahaydar</p>
