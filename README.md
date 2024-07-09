@@ -2,7 +2,14 @@
 
 ###
 
-<p align="left">I'm Atqiya Haydar, a second-year informatics student at Bandung Institute of Technology, currently holding positions as Chief Operating Officer at KSEP ITB and Chief Technology Officer at Sistem Anmategra KM ITB. I am currently focused on software engineering and enjoy doing UI/UX design.</p>
+A software engineer and UI/UX designer with 2+ years of experience in both fields. Known for the ability to develop excellent websites with captivating designs. Adaptable and collaborative.
+
+Currently serving as :
+• Chief Opearting Officer @ KSEP ITB
+• Chief Technology Officer @ Anmategra KM ITB
+• Full Stack Developer @ Mizuki
+• Web Developer Intern @ Purple Box
+• Program Associate @ TechFusion
 
 ###
 
