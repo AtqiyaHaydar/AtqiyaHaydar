@@ -2,14 +2,16 @@
 
 ###
 
-A software engineer and UI/UX designer with 2+ years of experience in both fields. Known for the ability to develop excellent websites with captivating designs. Adaptable and collaborative.
+<p align="left">A software engineer and UI/UX designer with 2+ years of experience in both fields. Known for the ability to develop excellent websites with captivating designs. Adaptable and collaborative.</p>
 
-Currently serving as :
-• Chief Opearting Officer @ KSEP ITB
-• Chief Technology Officer @ Anmategra KM ITB
-• Full Stack Developer @ Mizuki
-• Web Developer Intern @ Purple Box
-• Program Associate @ TechFusion
+<p align="left">
+Currently serving as : <br>
+• Chief Opearting Officer @ KSEP ITB <br>
+• Chief Technology Officer @ Anmategra KM ITB <br>
+• Full Stack Developer @ Mizuki <br>
+• Web Developer Intern @ Purple Box <br>
+• Program Associate @ TechFusion <br>
+</p>
 
 ###
 
