@@ -17,8 +17,8 @@ Currently serving as : <br>
 
 <h2 align="left">Links 🧑🏻‍🚀</h2>
 <p>
-• LinkedIn: https://www.linkedin.com/in/atqiyahaydar/ <br>
-• X: https://x.com/atqiyahaydar <br>
+LinkedIn: https://www.linkedin.com/in/atqiyahaydar/ <br>
+X: https://x.com/atqiyahaydar <br>
 </p>
 
 ###
