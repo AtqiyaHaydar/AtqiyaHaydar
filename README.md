@@ -20,8 +20,9 @@ X: https://x.com/atqiyahaydar <br>
 
 | Project Name  | Repository | Tech Stacks |
 | ------------- | ------------- | ------------- |
-| SEASalon  | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)  | Next.js, TypeScript, TailwindCSS, ShadcnUI, PostgreSQL, Prisma, Neon.tech, NextAuth |
+| SEASalon          | [Link to Project](https://github.com/AtqiyaHaydar/SEASalon)            | Next.js, TypeScript, TailwindCSS, ShadcnUI, PostgreSQL, Prisma, Neon.tech, NextAuth |
 | Wiki Race Solver  | [Link to Project](https://github.com/AtqiyaHaydar/Tubes2_PergiBahasa)  | Next.js, TypeScript, TailwindCSS, ShadcnUI, Golang |
+| CardFusion        | [Link to Project](https://github.com/AtqiyaHaydar/CardFusion-CRM)      | Next.js, JavaScript, TailwindCSS, ShadcnUI, React Snowfall, Dnd Kit Core, Dnd Kit Sortable, Dnd Kit Utilities |
 
 ###
 
