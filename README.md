@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">A software engineer and UI/UX designer with 2+ years of experience in both fields. Known for the ability to develop excellent websites with captivating designs. Adaptable and collaborative.</p>
+<p align="left">A software engineer and UI/UX designer with 2+ years of experience in both fields. Known for the ability to develop excellent websites with captivating designs. Adaptable and collaborative. </p>
+<p align="left">Currently serving as: </p>
+- Developer Intern @ Purple Foxes (Remote from Italy)
+- Chief Operating Officer @ KSEP ITB
+- Chief Technology Officer @ Anmategra KM ITB
 
 ###
 
