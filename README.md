@@ -8,8 +8,7 @@
 • Chief Operating Officer @ KSEP ITB <br>
 • Chief Technology Officer @ Anmategra KM ITB <br>
 </p>
-<p align="left">My plan for the upcoming semester is to learn Machine Learning!</p>
-###
+<p align="left">🤩 My plan for the upcoming semester is to learn Machine Learning!</p>
 
 <h2 align="left">Links 🧑🏻‍🚀</h2>
 <p>
