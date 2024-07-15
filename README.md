@@ -41,7 +41,7 @@ X: https://x.com/atqiyahaydar <br>
 
 | Categories  | Skills |
 | ------------- | ------------- |
-| Web Development and Frameworks   | HTML, CSS, JavaScript, TypeScript, React.js, Next.js, React Redux, Tailwind CSS, Express.js  |
+| Web Development and Frameworks   | HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, ShadcnUI |
 | Database and ORM  | MySQL, PostgreSQL, Prisma, MongoDB  |
 | Programming Languages  | Python, Golang, Java, C, C++, C#  |
 | Design and User Experience  | UI Design, UX Design, Figma, Canva |
