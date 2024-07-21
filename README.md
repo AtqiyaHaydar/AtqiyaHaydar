@@ -1,3 +1,9 @@
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AtqiyaHaydar.AtqiyaHaydar&right_color=cornflowerblue"  />
+</div>
+
+###
+
 <h2 align="left">Introduction ✨</h2> 
 
 ###
