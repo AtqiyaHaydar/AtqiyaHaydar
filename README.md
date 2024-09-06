@@ -13,7 +13,6 @@
 <h2 align="left">🌱 Links</h2>
 <p>
 • LinkedIn: https://www.linkedin.com/in/atqiyahaydar/ <br>
-• X: https://x.com/atqiyahaydar <br>
 • Portfolio Web : https://www.atqiya.art/ <br>
 </p>
 
