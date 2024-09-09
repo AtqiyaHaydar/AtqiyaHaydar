@@ -1,4 +1,4 @@
-<h2 align="left">💫 Introduction</h2>  
+<h2 align="left">💬 Introduction</h2>  
 
 ###
 
@@ -10,7 +10,7 @@
 • Chief Technology Officer @ Anmategra KM ITB <br>
 </p>
 
-<h2 align="left">🌱 Links</h2>
+<h2 align="left">🔗 Links</h2>
 <p>
 • LinkedIn: https://www.linkedin.com/in/atqiyahaydar/ <br>
 • Portfolio Web : https://www.atqiya.art/ <br>
