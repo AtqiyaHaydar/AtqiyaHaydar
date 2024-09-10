@@ -9,8 +9,7 @@
 <h2 align="left">🌱 Currently Serving As :</h2>  
 • Software Engineering Laboratory Assistant @ ITB <br>
 • Software Engineer Intern @ Purple Foxes Italy <br>
-• Chief Operating Officer @ KSEP ITB <br>
-• Chief Technology Officer @ Anmategra KM ITB <br>
+• Director of Operations @ KSEP ITB <br>
 </p>
 
 <h2 align="left">🔗 Links</h2>
