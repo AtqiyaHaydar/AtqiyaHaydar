@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">🌱 Currently Serving As :</h2>  
-• Software Engineering Laboratory Assistant @ ITB <br>
+• Software Engineering Laboratory Assistant @ STEI ITB <br>
 • Software Engineer Intern @ Purple Foxes Italy <br>
 • Director of Operations @ KSEP ITB <br>
 </p>
