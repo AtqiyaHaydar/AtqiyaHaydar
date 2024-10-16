@@ -10,7 +10,6 @@
 • Product Designer at @ Medivault <br>
 • Software Engineering Laboratory Assistant @ STEI ITB <br>
 • Software Engineer Intern @ Purple Foxes Italy <br>
-• Director of Operations @ KSEP ITB <br>
 </p>
 
 <h2 align="left">🔗 Links</h2>
