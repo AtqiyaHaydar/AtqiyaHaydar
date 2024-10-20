@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">🌱 Currently Serving As :</h2>  
-• Product Designer at @ Medivault <br>
+• Product Designer at @ MediVault <br>
 • Software Engineering Laboratory Assistant @ STEI ITB <br>
 • Software Engineer Intern @ Purple Foxes Italy <br>
 </p>
